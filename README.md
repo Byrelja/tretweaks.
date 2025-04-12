@@ -28,9 +28,9 @@ Are you tired of lag, low FPS, and high ping ruining your gaming experience? Say
 
 ## 🛒 How to Get Started:
 1. Choose your package:
-   - FPS Boost: $XX
-   - Lower Ping: $XX
-   - Combo Package: $XX
+   - FPS Boost: $7
+   - Lower Ping: $7
+   - Combo Package: $7
 2. Contact us via [your contact method].
 3. Follow our simple installation guide or let us assist you!
 
